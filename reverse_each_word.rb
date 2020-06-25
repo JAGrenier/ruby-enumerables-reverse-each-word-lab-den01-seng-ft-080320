@@ -4,4 +4,4 @@ def reverse_each_word (string)
      a.reverse
      new_arr.join ("")
 end
-end 
+end
